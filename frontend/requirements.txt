@@ -1,0 +1,5 @@
+# Streamlit frontend
+streamlit==1.30.0
+
+# HTTP client for API communication
+requests==2.31.0

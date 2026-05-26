@@ -1,0 +1,35 @@
+Introduction to Python Programming
+
+Python is a high-level, interpreted programming language known for its simplicity and readability. Created by Guido van Rossum and first released in 1991, Python has become one of the most popular programming languages in the world.
+
+Why Learn Python?
+
+Python is beginner-friendly with clean, readable syntax that resembles natural English. It is versatile and used in web development, data science, artificial intelligence, automation, and more. Python has a large community and extensive libraries that make development faster and easier.
+
+Basic Syntax
+
+Python uses indentation to define code blocks instead of curly braces. This makes the code clean and forces developers to write readable code. Variables in Python do not need explicit type declarations.
+
+Example of a simple Python program:
+
+name = "Student"
+age = 25
+print(f"Hello, {name}! You are {age} years old.")
+
+Data Types
+
+Python supports several built-in data types including integers, floats, strings, lists, tuples, dictionaries, and sets. Understanding these data types is fundamental to programming in Python.
+
+Lists are ordered, mutable collections defined with square brackets. Dictionaries are key-value pairs defined with curly braces. Tuples are ordered, immutable collections defined with parentheses.
+
+Control Flow
+
+Python uses if, elif, and else statements for conditional logic. For loops iterate over sequences, while while loops continue until a condition is false. The break and continue statements control loop execution.
+
+Functions
+
+Functions in Python are defined using the def keyword. They can accept parameters and return values. Python supports default parameter values and keyword arguments for flexible function calls.
+
+Next Steps
+
+After mastering the basics, students should explore object-oriented programming, file handling, error handling, and working with external libraries. Practice is essential for becoming proficient in Python programming.

@@ -1,0 +1,37 @@
+Data Science Fundamentals Course Outline
+
+Course Overview
+
+This comprehensive course introduces students to the field of data science. Students will learn how to collect, analyze, and interpret large datasets to make data-driven decisions. The course combines theoretical knowledge with hands-on practical exercises.
+
+Prerequisites
+
+Students should have basic programming knowledge, preferably in Python. Understanding of basic statistics and mathematics is helpful but not required. A computer with at least 8GB RAM is recommended for running data analysis tools.
+
+Module 1: Introduction to Data Science
+
+This module covers the data science lifecycle, key concepts, and industry applications. Students will learn about different types of data, data sources, and the role of a data scientist. Real-world case studies demonstrate how organizations use data science.
+
+Module 2: Data Collection and Cleaning
+
+Learn techniques for gathering data from various sources including APIs, databases, and web scraping. Data cleaning is a critical skill that often takes 60-80% of a data scientist's time. Students will practice handling missing values, outliers, and inconsistent data formats.
+
+Module 3: Exploratory Data Analysis
+
+This module teaches statistical analysis and visualization techniques. Students will use libraries like Pandas, NumPy, and Matplotlib. Understanding data distributions, correlations, and patterns is essential for building effective models.
+
+Module 4: Machine Learning Basics
+
+Introduction to supervised and unsupervised learning algorithms. Students will implement regression, classification, and clustering models. Emphasis is placed on understanding when to use different algorithms and how to evaluate model performance.
+
+Module 5: Data Visualization and Communication
+
+Creating compelling visualizations that tell a story with data. Students learn to use tools like Seaborn and Plotly. Effective communication of insights to non-technical stakeholders is a crucial skill.
+
+Assessment
+
+Weekly coding assignments contribute 40% to the final grade. A mid-term project analyzing a real dataset counts for 25%. The final capstone project where students solve a business problem using data science techniques accounts for 35%.
+
+Duration and Schedule
+
+The course runs for 12 weeks with two 3-hour sessions per week. Additional lab hours are available for practice. Office hours with instructors are scheduled twice weekly for additional support.
